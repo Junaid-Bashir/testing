@@ -1,6 +1,4 @@
-import cv2
 import numpy as np
-from PIL import Image
 import math
 import tensorflow as tf
 from fastapi import FastAPI, UploadFile, File
